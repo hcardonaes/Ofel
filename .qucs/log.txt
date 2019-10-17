@@ -1,0 +1,69 @@
+Output:
+-------
+
+Starting new simulation on ma. 21. ago. 2018 at 13:41:40:997
+
+creating netlist... done.
+Starting H:/qucs-0.0.19-win32-mingw482-asco-freehdl-adms/qucs-0.0.19-win32-mingw482-asco-freehdl-adms/bin/qucsator.exe
+
+project location: 
+modules to load: 0
+factorycreate.size() is 0
+factorycreate has registered:
+parsing netlist...
+checking netlist...
+netlist content
+      1 MOSFET instances
+      2 Idc instances
+     14 Diode instances
+      1 Switch instances
+      9 CCCS instances
+      5 C instances
+     12 VCVS instances
+      1 DC instances
+     24 R instances
+      1 Relais instances
+      1 VCCS instances
+      2 CCVS instances
+     11 Vdc instances
+creating netlist...
+
+Simulation ended on ma. 21. ago. 2018 at 13:41:41:341
+Ready.
+
+
+
+Errors and Warnings:
+--------------------
+
+WARNING: Unphysical model parameter N = 0.45888 in diode `NMOSFETs_IRF520N.T1.D3'
+WARNING: Unphysical model parameter N = 0.45888 in diode `NMOSFETs_IRF520N.T1.D4'
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+WARNING: DC1: inserted virtual resistance at node `_net0' connected to [S1]
+

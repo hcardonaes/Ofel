@@ -1,0 +1,2134 @@
+=====================================================================
+== C:\Program Files (x86)\Steam\steamapps\common\Arma 3\Arma3_x64.exe
+== "C:\Program Files (x86)\Steam\steamapps\common\Arma 3\Arma3_x64.exe" -mod=
+
+Original output filename: Arma3Retail_DX11_x64
+Exe timestamp: 2017/03/28 17:18:21
+Current time:  2017/03/30 18:15:11
+
+Type: Public
+Build: Stable
+Version: 1.68.141112
+
+Allocator: C:\Program Files (x86)\Steam\steamapps\common\Arma 3\Dll\tbb4malloc_bi_x64.dll
+PhysMem: 7.9 GiB, VirtMem : 131072 GiB, AvailPhys : 3.4 GiB, AvailVirt : 131072 GiB, AvailPage : 10 GiB
+=====================================================================
+
+18:15:11 Source set
+18:15:11 Initializing stats manager.
+18:15:11 sessionID: 1b5292eb49a72e5c486a1368759ef786b90175ba
+18:15:13 Unsupported language Spanish in stringtable
+18:15:15 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/ (original bin\config.bin)
+18:15:15 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/ (original bin\config.bin)
+18:15:15 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/ (original bin\config.bin)
+18:15:15 Updating base class BlendAnims->, by a3\anims_f\config\sdr\weaponswitching\config.bin/CfgMovesMaleSdr/BlendAnims/ (original a3\anims_f\config\sdr\config.bin)
+18:15:15 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/ (original bin\config.bin)
+18:15:15 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/ (original bin\config.bin)
+18:15:15 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/ (original bin\config.bin)
+18:15:15 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/ (original a3\ui_f\config.bin)
+18:15:15 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/OverviewGroup/ (original bin\config.bin)
+18:15:15 Updating base class RscButton->RscButtonSearch, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/SearchButton/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonCancel/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonGameOptions/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenuSteam, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonBuyDLC/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonRevert/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonOK/ (original bin\config.bin)
+18:15:15 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/ (original bin\config.bin)
+18:15:15 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/ (original bin\config.bin)
+18:15:15 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/ (original bin\config.bin)
+18:15:15 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/ (original bin\config.bin)
+18:15:15 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/Controls/ButtonCancel/ (original bin\config.bin)
+18:15:15 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+18:15:15 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/ (original bin\config.bin)
+18:15:15 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/ (original bin\config.bin)
+18:15:15 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/ (original bin\config.bin)
+18:15:15 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/ (original bin\config.bin)
+18:15:15 Cannot update non class from class a3\ui_f\config.bin/RscCallSupport/Items/
+18:15:15 Cannot update non class from class a3\ui_f\config.bin/RscRadio/Items/
+18:15:15 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/ (original bin\config.bin)
+18:15:15 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/ (original bin\config.bin)
+18:15:15 Updating base class ->Plane, by a3\air_f_beta\config.bin/CfgVehicles/Plane_Base_F/ (original a3\air_f_beta\config.bin)
+18:15:16 Updating base class ->Car_F, by a3\soft_f\config.bin/CfgVehicles/Truck_F/ (original a3\soft_f\config.bin)
+18:15:16 Updating base class ->BlendAnims, by a3\soft_f_kart\kart_01\config.bin/CfgMovesMaleSdr/BlendAnims/ (original (a3\anims_f\config\sdr\config.bin - no unload))
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:15:16 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:15:16 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/ (original a3\ui_f\config.bin)
+18:15:16 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/ (original a3\ui_f\config.bin)
+18:15:19 Initializing Steam Manager
+18:15:19 Starting initial content check.
+18:15:19 Steam Manager initialized.
+18:15:19 
+18:15:19 ==== Loaded addons ====
+18:15:19 
+18:15:19 dta\bin.pbo - 141112
+18:15:19 dta\core.pbo - 109319
+18:15:19 dta\languagecore_f.pbo - 113390
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\air_f_exp.pbo - 111823
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\anims_f_exp.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\armor_f_exp.pbo - 110023
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\boat_f_exp.pbo - 110813
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\cargoposes_f_exp.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\characters_f_exp.pbo - 110415
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\data_f_exp.pbo - 110872
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_f_exp.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp.pbo - 109320
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_chi.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_engfre.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\dubbing_radio_f_exp_data_fre.pbo - 109671
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\editorpreviews_f_exp.pbo - 112076
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\functions_f_exp.pbo - 111589
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\languagemissions_f_exp.pbo - 112514
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\language_f_exp.pbo - 112512
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\missions_f_exp.pbo - 112716
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\missions_f_exp_data.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\missions_f_exp_video.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\modules_f_exp.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\music_f_exp.pbo - 110544
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\music_f_exp_music.pbo - 110544
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\props_f_exp.pbo - 113276
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\soft_f_exp.pbo - 111055
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\sounds_f_exp.pbo - 110690
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\static_f_exp.pbo - 110023
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\supplies_f_exp.pbo - 109321
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\ui_f_exp.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion\addons\weapons_f_exp.pbo - 110822
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\anims_f_mark.pbo - 109517
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\characters_f_mark.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\data_f_mark.pbo - 109362
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\dubbing_f_mark.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\dubbing_f_mp_mark.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\functions_f_mark.pbo - 110666
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\functions_f_mp_mark.pbo - 111586
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\languagemissions_f_mark.pbo - 112514
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\languagemissions_f_mp_mark.pbo - 112514
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\language_f_mark.pbo - 112513
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\language_f_mp_mark.pbo - 112513
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mark.pbo - 111207
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mark_data.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mark_video.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mp_mark.pbo - 109833
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\missions_f_mp_mark_data.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\modules_f_mark.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\modules_f_mp_mark.pbo - 110418
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\music_f_mark.pbo - 110544
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\music_f_mark_music.pbo - 110544
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\sounds_f_mark.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\static_f_mark.pbo - 110023
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\structures_f_mark.pbo - 111263
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\supplies_f_mark.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\ui_f_mark.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\ui_f_mp_mark.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark\addons\weapons_f_mark.pbo - 109347
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\air_f_heli.pbo - 111013
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\anims_f_heli.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\boat_f_heli.pbo - 110023
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\cargoposes_f_heli.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\data_f_heli.pbo - 109361
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\dubbing_f_heli.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\functions_f_heli.pbo - 109742
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\languagemissions_f_heli.pbo - 112514
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\language_f_heli.pbo - 112510
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli.pbo - 110593
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli_data.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\missions_f_heli_video.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\modules_f_heli.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\music_f_heli.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\music_f_heli_music.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\soft_f_heli.pbo - 110521
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\sounds_f_heli.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\structures_f_heli.pbo - 111952
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\supplies_f_heli.pbo - 109321
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli\addons\ui_f_heli.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\anims_f_kart.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\characters_f_kart.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\data_f_kart.pbo - 112043
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\languagemissions_f_kart.pbo - 112514
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\language_f_kart.pbo - 112512
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\missions_f_kart.pbo - 109319
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\missions_f_kart_data.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\modules_f_kart.pbo - 111176
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\modules_f_kart_data.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\soft_f_kart.pbo - 111056
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\sounds_f_kart.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\structures_f_kart.pbo - 111017
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\ui_f_kart.pbo - 109325
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart\addons\weapons_f_kart.pbo - 109681
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\data_f_curator.pbo - 111084
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\data_f_curator_music.pbo - 110544
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\functions_f_curator.pbo - 109320
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\language_f_curator.pbo - 112509
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\missions_f_curator.pbo - 111802
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\modules_f_curator.pbo - 111586
+18:15:19 C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator\addons\ui_f_curator.pbo - 111493
+18:15:19 addons\3den.pbo - 112957
+18:15:19 addons\3den_language.pbo - 112509
+18:15:19 addons\a3.pbo - unknown
+18:15:19 addons\air_f.pbo - 111010
+18:15:19 addons\air_f_beta.pbo - 111010
+18:15:19 addons\air_f_epb.pbo - 111011
+18:15:19 addons\air_f_epc.pbo - 112193
+18:15:19 addons\air_f_gamma.pbo - 112192
+18:15:19 addons\animals_f.pbo - 111237
+18:15:19 addons\animals_f_beta.pbo - 109319
+18:15:19 addons\anims_f.pbo - 111653
+18:15:19 addons\anims_f_bootcamp.pbo - 109319
+18:15:19 addons\anims_f_data.pbo - 109364
+18:15:19 addons\anims_f_epa.pbo - 109319
+18:15:19 addons\anims_f_epc.pbo - 109564
+18:15:19 addons\anims_f_exp_a.pbo - 109319
+18:15:19 addons\armor_f.pbo - 110023
+18:15:19 addons\armor_f_beta.pbo - 111315
+18:15:19 addons\armor_f_epb.pbo - 111064
+18:15:19 addons\armor_f_epc.pbo - 110395
+18:15:19 addons\armor_f_gamma.pbo - 111056
+18:15:19 addons\baseconfig_f.pbo - 109319
+18:15:19 addons\boat_f.pbo - 110109
+18:15:19 addons\boat_f_beta.pbo - 111671
+18:15:19 addons\boat_f_epc.pbo - 110023
+18:15:19 addons\boat_f_gamma.pbo - 111263
+18:15:19 addons\cargoposes_f.pbo - 111055
+18:15:19 addons\characters_f.pbo - 111925
+18:15:19 addons\characters_f_beta.pbo - 110187
+18:15:19 addons\characters_f_bootcamp.pbo - 109319
+18:15:19 addons\characters_f_epa.pbo - 109319
+18:15:19 addons\characters_f_epb.pbo - 109319
+18:15:19 addons\characters_f_epc.pbo - 109874
+18:15:19 addons\characters_f_gamma.pbo - 109319
+18:15:19 addons\data_f.pbo - 111283
+18:15:19 addons\data_f_bootcamp.pbo - 109319
+18:15:19 addons\data_f_exp_a.pbo - 109319
+18:15:19 addons\data_f_exp_b.pbo - 109319
+18:15:19 addons\drones_f.pbo - 111823
+18:15:19 addons\dubbing_f.pbo - 109319
+18:15:19 addons\dubbing_f_beta.pbo - 109319
+18:15:19 addons\dubbing_f_bootcamp.pbo - 109319
+18:15:19 addons\dubbing_f_epa.pbo - 109319
+18:15:19 addons\dubbing_f_epb.pbo - 109319
+18:15:19 addons\dubbing_f_epc.pbo - 109319
+18:15:19 addons\dubbing_f_gamma.pbo - 110071
+18:15:19 addons\dubbing_radio_f.pbo - 109319
+18:15:19 addons\dubbing_radio_f_data_eng.pbo - 109319
+18:15:19 addons\dubbing_radio_f_data_engb.pbo - 109319
+18:15:19 addons\dubbing_radio_f_data_gre.pbo - 109319
+18:15:19 addons\dubbing_radio_f_data_per.pbo - 109319
+18:15:19 addons\dubbing_radio_f_data_vr.pbo - 109320
+18:15:19 addons\editorpreviews_f.pbo - 109834
+18:15:19 addons\editor_f.pbo - 109319
+18:15:19 addons\functions_f.pbo - 112932
+18:15:19 addons\functions_f_bootcamp.pbo - 111827
+18:15:19 addons\functions_f_epa.pbo - 109319
+18:15:19 addons\functions_f_epc.pbo - 109319
+18:15:19 addons\functions_f_exp_a.pbo - 109320
+18:15:19 addons\languagemissions_f.pbo - 112513
+18:15:19 addons\languagemissions_f_beta.pbo - 112513
+18:15:19 addons\languagemissions_f_bootcamp.pbo - 112513
+18:15:19 addons\languagemissions_f_epa.pbo - 112513
+18:15:19 addons\languagemissions_f_epb.pbo - 112513
+18:15:19 addons\languagemissions_f_epc.pbo - 112513
+18:15:19 addons\languagemissions_f_exp_a.pbo - 112514
+18:15:19 addons\languagemissions_f_gamma.pbo - 112514
+18:15:19 addons\language_f.pbo - 112509
+18:15:19 addons\language_f_beta.pbo - 112509
+18:15:19 addons\language_f_bootcamp.pbo - 112509
+18:15:19 addons\language_f_epa.pbo - 112509
+18:15:19 addons\language_f_epb.pbo - 112509
+18:15:19 addons\language_f_epc.pbo - 112509
+18:15:19 addons\language_f_exp_a.pbo - 112510
+18:15:19 addons\language_f_exp_b.pbo - 112513
+18:15:19 addons\language_f_gamma.pbo - 112510
+18:15:19 addons\map_altis.pbo - 111017
+18:15:19 addons\map_altis_data.pbo - 111047
+18:15:19 addons\map_altis_data_layers.pbo - 99901
+18:15:19 addons\map_altis_data_layers_00_00.pbo - 99901
+18:15:19 addons\map_altis_data_layers_00_01.pbo - 99901
+18:15:19 addons\map_altis_data_layers_01_00.pbo - 99901
+18:15:19 addons\map_altis_data_layers_01_01.pbo - 99901
+18:15:19 addons\map_altis_scenes_f.pbo - 109319
+18:15:19 addons\map_data.pbo - 111583
+18:15:19 addons\map_stratis.pbo - 111017
+18:15:19 addons\map_stratis_data.pbo - 111017
+18:15:19 addons\map_stratis_data_layers.pbo - 99082
+18:15:19 addons\map_stratis_scenes_f.pbo - 109325
+18:15:19 addons\map_vr.pbo - 105264
+18:15:19 addons\map_vr_scenes_f.pbo - 109319
+18:15:19 addons\misc_f.pbo - 109325
+18:15:19 addons\missions_f.pbo - 110622
+18:15:19 addons\missions_f_beta.pbo - 109833
+18:15:19 addons\missions_f_beta_data.pbo - 109325
+18:15:19 addons\missions_f_beta_video.pbo - 109325
+18:15:19 addons\missions_f_bootcamp.pbo - 111866
+18:15:19 addons\missions_f_bootcamp_data.pbo - 109325
+18:15:19 addons\missions_f_bootcamp_video.pbo - 109325
+18:15:19 addons\missions_f_data.pbo - 109325
+18:15:19 addons\missions_f_epa.pbo - 113220
+18:15:19 addons\missions_f_epa_data.pbo - 109319
+18:15:19 addons\missions_f_epa_video.pbo - 109319
+18:15:19 addons\missions_f_epb.pbo - 109319
+18:15:19 addons\missions_f_epc.pbo - 109319
+18:15:19 addons\missions_f_exp_a.pbo - 109319
+18:15:19 addons\missions_f_exp_a_data.pbo - 109325
+18:15:19 addons\missions_f_gamma.pbo - 111828
+18:15:19 addons\missions_f_gamma_data.pbo - 109319
+18:15:19 addons\missions_f_gamma_video.pbo - 109325
+18:15:19 addons\missions_f_video.pbo - 109325
+18:15:19 addons\modules_f.pbo - 112927
+18:15:19 addons\modules_f_beta.pbo - 111324
+18:15:19 addons\modules_f_beta_data.pbo - 109325
+18:15:19 addons\modules_f_bootcamp.pbo - 109325
+18:15:19 addons\modules_f_data.pbo - 110898
+18:15:19 addons\modules_f_epb.pbo - 109325
+18:15:19 addons\modules_f_exp_a.pbo - 109325
+18:15:19 addons\music_f.pbo - 110544
+18:15:19 addons\music_f_bootcamp.pbo - 110544
+18:15:19 addons\music_f_bootcamp_music.pbo - 110544
+18:15:19 addons\music_f_epa.pbo - 110544
+18:15:19 addons\music_f_epa_music.pbo - 110544
+18:15:19 addons\music_f_epb.pbo - 110544
+18:15:19 addons\music_f_epb_music.pbo - 110544
+18:15:19 addons\music_f_epc.pbo - 110544
+18:15:19 addons\music_f_epc_music.pbo - 110544
+18:15:19 addons\music_f_music.pbo - 109325
+18:15:19 addons\plants_f.pbo - 109417
+18:15:19 addons\props_f_exp_a.pbo - 109325
+18:15:19 addons\roads_f.pbo - 110064
+18:15:19 addons\rocks_f.pbo - 110122
+18:15:19 addons\signs_f.pbo - 111314
+18:15:19 addons\soft_f.pbo - 111315
+18:15:19 addons\soft_f_beta.pbo - 111315
+18:15:19 addons\soft_f_bootcamp.pbo - 110083
+18:15:19 addons\soft_f_epc.pbo - 110283
+18:15:19 addons\soft_f_gamma.pbo - 111320
+18:15:19 addons\sounds_f.pbo - 113294
+18:15:19 addons\sounds_f_arsenal.pbo - 111486
+18:15:19 addons\sounds_f_bootcamp.pbo - 109325
+18:15:19 addons\sounds_f_characters.pbo - 109325
+18:15:19 addons\sounds_f_environment.pbo - 109325
+18:15:19 addons\sounds_f_epb.pbo - 109325
+18:15:19 addons\sounds_f_epc.pbo - 109325
+18:15:19 addons\sounds_f_exp_a.pbo - 109325
+18:15:19 addons\sounds_f_sfx.pbo - 110200
+18:15:19 addons\sounds_f_vehicles.pbo - 110888
+18:15:19 addons\static_f.pbo - 111316
+18:15:19 addons\static_f_beta.pbo - 110023
+18:15:19 addons\static_f_gamma.pbo - 110848
+18:15:19 addons\structures_f.pbo - 112003
+18:15:19 addons\structures_f_bootcamp.pbo - 111267
+18:15:19 addons\structures_f_data.pbo - 111581
+18:15:19 addons\structures_f_epa.pbo - 111017
+18:15:19 addons\structures_f_epb.pbo - 111017
+18:15:19 addons\structures_f_epc.pbo - 111017
+18:15:19 addons\structures_f_exp_a.pbo - 111017
+18:15:19 addons\structures_f_households.pbo - 111017
+18:15:19 addons\structures_f_ind.pbo - 112093
+18:15:19 addons\structures_f_mil.pbo - 112089
+18:15:19 addons\structures_f_wrecks.pbo - 111326
+18:15:19 addons\uifonts_f.pbo - 109325
+18:15:19 addons\uifonts_f_data.pbo - 109528
+18:15:19 addons\ui_f.pbo - 113021
+18:15:19 addons\ui_f_bootcamp.pbo - 109325
+18:15:19 addons\ui_f_data.pbo - 109798
+18:15:19 addons\ui_f_exp_a.pbo - 109325
+18:15:19 addons\weapons_f.pbo - 111014
+18:15:19 addons\weapons_f_beta.pbo - 109320
+18:15:19 addons\weapons_f_bootcamp.pbo - 109325
+18:15:19 addons\weapons_f_epa.pbo - 111299
+18:15:19 addons\weapons_f_epb.pbo - 109320
+18:15:19 addons\weapons_f_epc.pbo - 109320
+18:15:19 addons\weapons_f_gamma.pbo - 109320
+18:15:19 
+18:15:19 =======================
+18:15:19 
+18:15:19 ============================================================================================= List of mods ===============================================================================================
+18:15:19 modsReadOnly = true
+18:15:19 safeModsActivated = false
+18:15:19 customMods = false
+18:15:19 hash = 'DA3B9265354BBC5B5C97318185C16D5651D6C184'
+18:15:19 hashShort = '9ae19127'
+18:15:19                                               name |               modDir |    default |               origin |                                     hash | hashShort | fullPath
+18:15:19 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18:15:19                                  Arma 3 DLC Bundle |            dlcbundle |       true |            NOT FOUND |                                          |           | 
+18:15:19                                        Arma 3 Apex |            expansion |       true |             GAME DIR | 42f020ab7d968aecc0630c0973b74d50bb0cffa2 |  14a85216 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\expansion
+18:15:19                                    Arma 3 Marksmen |                 mark |       true |             GAME DIR | baa643866fc0ae640bcba6f57082883589e2e374 |   536a893 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\mark
+18:15:19                                 Arma 3 Helicopters |                 heli |       true |             GAME DIR | 5355b595d387b4db9a897739d993fa01ac5214a3 |  18b15771 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\heli
+18:15:19                                       Arma 3 Karts |                 kart |       true |             GAME DIR | b32752790fa74fe763362e8f7581005b3b90870f |  dca72b15 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\kart
+18:15:19                                        Arma 3 Zeus |              curator |       true |             GAME DIR | 215f5276e1467c6b7009336553cb22d9e431638c |  888e1e02 | C:\Program Files (x86)\Steam\steamapps\common\Arma 3\curator
+18:15:19                                             Arma 3 |                   A3 |       true |            NOT FOUND |                                          |           | 
+18:15:19 ==========================================================================================================================================================================================================
+18:15:19 DX11 - Initializing DX11 engine.
+18:15:19 DX11 - Using DXGI adapter 0 (detected in config).
+18:15:19 DX11 - Using DXGI adapter 0.
+18:15:19     - adapter description : NVIDIA GeForce GTX 650
+18:15:19     - adapter vendor ID : 4318
+18:15:19     - adapter device ID : 4038
+18:15:19     - adapter subsys ID : 909907032
+18:15:19     - adapter revision  : 161
+18:15:19     - dedicated video memory : 4260036608
+18:15:19     - dedicated system memory : 0
+18:15:19     - shared system memory : 4223862784
+18:15:19 InitSound ...
+18:15:19 InitSound - complete
+18:15:20 Detected Joystick: Logitech Force 3D Pro
+18:15:20     0 ... Stick X Eje [1,30]
+18:15:20     1 ... Stick Y Eje [1,31]
+18:15:20     5 ... Stick Z Girar [1,35]
+18:15:20     6 ... Deslizador Stick 1 [1,36]
+18:15:22 PhysX3 SDK Init started ...
+18:15:22 PhysX3 SDK Init ended.
+18:15:23 Attempt to override final function - rscminimap_script
+18:15:23 Attempt to override final function - rscdisplayloading_script
+18:15:23 Attempt to override final function - rscdisplayloading_script
+18:15:23 Attempt to override final function - rscdisplayloading_script
+18:15:23 Attempt to override final function - rscdiary_script
+18:15:23 Attempt to override final function - rscdiary_script
+18:15:23 Attempt to override final function - rscdisplayremotemissions_script
+18:15:23 Attempt to override final function - rscdisplayloading_script
+18:15:23 Attempt to override final function - rscdiary_script
+18:15:23 Attempt to override final function - rscdiary_script
+18:15:23 Attempt to override final function - rscdisplaystrategicmap_script
+18:15:23 Attempt to override final function - rscdisplaycommon_script
+18:15:23 Attempt to override final function - rscdisplaygarage_script
+18:15:24 Attempt to override final function - rscslingloadassistant_script
+18:15:24 Attempt to override final function - rscavcamera_script
+18:15:24 Attempt to override final function - rscavcamera_script
+18:15:24 Attempt to override final function - rscavcamera_script
+18:15:24 Attempt to override final function - rscavcamera_script
+18:15:24 Attempt to override final function - rscavcamera_script
+18:15:24 Attempt to override final function - rscdisplayhostsettings_script
+18:15:24 Attempt to override final function - rscdisplayloading_script
+18:15:24 Attempt to override final function - rscdisplaycurator_script
+18:15:24 Attempt to override final function - display3deneditcomposition_script
+18:15:24 Attempt to override final function - display3deneditattributes_script
+18:15:24 Attempt to override final function - display3deneditattributes_script
+18:15:24 Attempt to override final function - rscdisplayhostsettings_script
+18:15:24 Attempt to override final function - rscdisplaycommon_script
+18:15:24 Attempt to override final function - rscdisplaydebriefing_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:24 Attempt to override final function - rscunitinfo_script
+18:15:25 SimulWeather - Cloud Renderer - noise texture file is not specified!
+18:15:28 Loading movesType CfgGesturesMale
+18:15:28 Creating action map cache
+18:15:28 MovesType CfgGesturesMale load time 28 ms
+18:15:28 Loading movesType CfgMovesMaleSdr
+18:15:28 Creating action map cache
+18:15:32 MovesType CfgMovesMaleSdr load time 3483 ms
+18:15:32 Starting mission:
+18:15:32  Mission file: introExp
+18:15:32  Mission world: Stratis
+18:15:32  Mission directory: a3\map_stratis_scenes_f\scenes\introExp.Stratis\
+18:15:32 No more slot to add connection at 033057 (3386.8,5735.4)
+18:15:32 Strange convex component65 in a3\rocks_f\sharp\sharprock_wallh.p3d:geometryFire
+18:15:32 Strange convex component06 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component18 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component30 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component31 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component32 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component42 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component43 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component44 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component46 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component58 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component64 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component76 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component98 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component100 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component132 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component145 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component149 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component151 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component167 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component198 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component244 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component304 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component310 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component337 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component353 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component378 in a3\rocks_f\sharp\sharprock_monolith.p3d:geometryFire
+18:15:32 Strange convex component145 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+18:15:32 Strange convex component149 in a3\plants_f\tree\t_pinuss2s_b_f.p3d:geometryView
+18:15:32 Strange convex component05 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+18:15:32 Strange convex component74 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+18:15:32 Strange convex component202 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+18:15:32 Strange convex component391 in a3\rocks_f\sharp\sharprock_spike.p3d:geometryFire
+18:15:33 Strange convex component116 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+18:15:33 Strange convex component117 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+18:15:33 Strange convex component118 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+18:15:33 Strange convex component119 in a3\rocks_f\sharp\sharprock_apart.p3d:geometryFire
+18:15:33 Error compiling '' in 'HitPelvis'
+18:15:33 Error compiling '' in 'HitAbdomen'
+18:15:33 Error compiling '' in 'HitDiaphragm'
+18:15:33 Error compiling '' in 'HitChest'
+18:15:33 Error compiling '' in 'HitArms'
+18:15:33 Error compiling '' in 'HitLegs'
+18:15:34 Strange convex component01 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component02 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component13 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component32 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component33 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component35 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component37 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component40 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component45 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component53 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component61 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component71 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component91 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component92 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component93 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component103 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component111 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component129 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component131 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component135 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component141 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component160 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component204 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component217 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component254 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component260 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component295 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component309 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:34 Strange convex component315 in a3\rocks_f\sharp\sharprock_wallv.p3d:geometryFire
+18:15:41 Weather was forced to change
+18:15:44 Fresnel k must be >0, given n=2.51,k=0
+18:15:44 Loading movesType CfgMovesSnakes_F
+18:15:44 Creating action map cache
+18:15:46 Loading movesType CfgMovesButterfly
+18:15:46 Creating action map cache
+18:15:47 Loading movesType CfgMovesBird
+18:15:47 Creating action map cache
+18:15:57 Loading movesType CfgMovesRabbit_F
+18:15:57 Creating action map cache
+18:16:10 Strange convex component322 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+18:16:10 Strange convex component327 in a3\structures_f\research\dome_big_f.p3d:geometryFire
+18:16:14 Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+18:16:14 Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+18:16:14 Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometry
+18:16:14 Strange convex component317 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+18:16:14 Strange convex component318 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+18:16:14 Strange convex component319 in a3\rocks_f\blunt\bluntrock_wallv.p3d:geometryView
+18:18:31 Error compiling '' in 'HitPelvis'
+18:18:31 Error compiling '' in 'HitAbdomen'
+18:18:31 Error compiling '' in 'HitDiaphragm'
+18:18:31 Error compiling '' in 'HitChest'
+18:18:31 Error compiling '' in 'HitArms'
+18:18:31 Error compiling '' in 'HitLegs'
+18:18:31 Error compiling '' in 'HitPelvis'
+18:18:31 Error compiling '' in 'HitAbdomen'
+18:18:31 Error compiling '' in 'HitDiaphragm'
+18:18:31 Error compiling '' in 'HitChest'
+18:18:31 Error compiling '' in 'HitArms'
+18:18:31 Error compiling '' in 'HitLegs'
+18:19:20 Starting mission:
+18:19:20  Mission file: tempMissionSP
+18:19:20  Mission world: Altis
+18:19:20  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+18:19:22  Mission id: 0d80437e962eaee70ed41843eba8583afc3c78d8
+18:19:28 Ragdoll - loading of ragdoll source "Soldier" started.
+18:19:28 Ragdoll - loading of ragdoll source "Soldier" finished successfully.
+18:19:31 Loading movesType CfgMovesFishes_F
+18:19:31 Creating action map cache
+18:19:50 EPE manager release (18|49|0)
+18:19:50 Number of joints in scene after release: 14
+18:19:50 Number of actors in scene after release: 33
+18:19:50 EPE manager release (0|33|0)
+18:19:50 Number of joints in scene after release: 14
+18:19:50 Number of actors in scene after release: 15
+18:19:51 EPE manager release (0|15|0)
+18:20:34 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:20:52 Dimensions in class O_HMG_01_high_F should be an array of size 2.
+18:20:52 Error compiling '' in 'HitPelvis'
+18:20:52 Error compiling '' in 'HitAbdomen'
+18:20:52 Error compiling '' in 'HitDiaphragm'
+18:20:52 Error compiling '' in 'HitChest'
+18:20:52 Error compiling '' in 'HitArms'
+18:20:52 Error compiling '' in 'HitLegs'
+18:21:11 Dimensions in class O_static_AT_F should be an array of size 2.
+18:23:22 Error compiling '' in 'HitPelvis'
+18:23:22 Error compiling '' in 'HitAbdomen'
+18:23:22 Error compiling '' in 'HitDiaphragm'
+18:23:22 Error compiling '' in 'HitChest'
+18:23:22 Error compiling '' in 'HitArms'
+18:23:22 Error compiling '' in 'HitLegs'
+18:27:32 Trying to create an invalid center EMPTY
+18:27:46 Trying to create an invalid center EMPTY
+18:27:52 Trying to create an invalid center EMPTY
+18:29:36 Error compiling '' in 'HitPelvis'
+18:29:36 Error compiling '' in 'HitAbdomen'
+18:29:36 Error compiling '' in 'HitDiaphragm'
+18:29:36 Error compiling '' in 'HitChest'
+18:29:36 Error compiling '' in 'HitArms'
+18:29:36 Error compiling '' in 'HitLegs'
+18:29:39 Error compiling '' in 'HitPelvis'
+18:29:39 Error compiling '' in 'HitAbdomen'
+18:29:39 Error compiling '' in 'HitDiaphragm'
+18:29:39 Error compiling '' in 'HitChest'
+18:29:39 Error compiling '' in 'HitArms'
+18:29:39 Error compiling '' in 'HitLegs'
+18:29:41 Error compiling '' in 'HitPelvis'
+18:29:41 Error compiling '' in 'HitAbdomen'
+18:29:41 Error compiling '' in 'HitDiaphragm'
+18:29:41 Error compiling '' in 'HitChest'
+18:29:41 Error compiling '' in 'HitArms'
+18:29:41 Error compiling '' in 'HitLegs'
+18:29:44 Error compiling '' in 'HitPelvis'
+18:29:44 Error compiling '' in 'HitAbdomen'
+18:29:44 Error compiling '' in 'HitDiaphragm'
+18:29:44 Error compiling '' in 'HitChest'
+18:29:44 Error compiling '' in 'HitArms'
+18:29:44 Error compiling '' in 'HitLegs'
+18:29:44 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:29:44 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:29:46 Error compiling '' in 'HitPelvis'
+18:29:46 Error compiling '' in 'HitAbdomen'
+18:29:46 Error compiling '' in 'HitDiaphragm'
+18:29:46 Error compiling '' in 'HitChest'
+18:29:46 Error compiling '' in 'HitArms'
+18:29:46 Error compiling '' in 'HitLegs'
+18:30:40 Error compiling '' in 'HitPelvis'
+18:30:40 Error compiling '' in 'HitAbdomen'
+18:30:40 Error compiling '' in 'HitDiaphragm'
+18:30:40 Error compiling '' in 'HitChest'
+18:30:40 Error compiling '' in 'HitArms'
+18:30:40 Error compiling '' in 'HitLegs'
+18:30:55 Error compiling '' in 'HitPelvis'
+18:30:55 Error compiling '' in 'HitAbdomen'
+18:30:55 Error compiling '' in 'HitDiaphragm'
+18:30:55 Error compiling '' in 'HitChest'
+18:30:55 Error compiling '' in 'HitArms'
+18:30:55 Error compiling '' in 'HitLegs'
+18:31:04 Error compiling '' in 'HitPelvis'
+18:31:04 Error compiling '' in 'HitAbdomen'
+18:31:04 Error compiling '' in 'HitDiaphragm'
+18:31:04 Error compiling '' in 'HitChest'
+18:31:04 Error compiling '' in 'HitArms'
+18:31:04 Error compiling '' in 'HitLegs'
+18:31:04 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:31:55 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:31:55 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:31:55 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:31:59 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:31:59 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:31:59 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:03 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:03 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:03 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:14 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:14 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:14 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:43 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:43 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:32:43 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:33:16 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:33:16 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:33:16 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:36 center[B]: group[Alfa 1-1] Not found.
+18:34:36 center[O]: group[Alfa 1-2] Not found.
+18:34:36 center[B]: group[Alfa 1-4] Not found.
+18:34:36 Starting mission:
+18:34:36  Mission file: tempMissionSP
+18:34:36  Mission world: Altis
+18:34:36  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+18:34:37 EPE manager release (0|11|0)
+18:34:39 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:39 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:34:40  Mission id: 31d6bc7d74397ec38afc45c0a9678742ed2056b6
+18:34:45 Loading movesType CfgMovesTurtle_F
+18:34:45 Creating action map cache
+18:34:49 Loading movesType CfgMovesSharks_F
+18:34:49 Creating action map cache
+18:35:20 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_C_ACO_pointer_F
+18:36:38 EPE manager release (5|105|0)
+18:36:38 Number of joints in scene after release: 28
+18:36:38 Number of actors in scene after release: 35
+18:36:38 EPE manager release (0|35|0)
+18:36:38 Number of joints in scene after release: 28
+18:36:38 Number of actors in scene after release: 30
+18:36:39 EPE manager release (0|30|0)
+18:36:40 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:36:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:37:09 Error compiling '' in 'HitPelvis'
+18:37:09 Error compiling '' in 'HitAbdomen'
+18:37:09 Error compiling '' in 'HitDiaphragm'
+18:37:09 Error compiling '' in 'HitChest'
+18:37:09 Error compiling '' in 'HitArms'
+18:37:09 Error compiling '' in 'HitLegs'
+18:37:09 Error compiling '' in 'HitPelvis'
+18:37:09 Error compiling '' in 'HitAbdomen'
+18:37:09 Error compiling '' in 'HitDiaphragm'
+18:37:09 Error compiling '' in 'HitChest'
+18:37:09 Error compiling '' in 'HitArms'
+18:37:09 Error compiling '' in 'HitLegs'
+18:37:12 Error compiling '' in 'HitPelvis'
+18:37:12 Error compiling '' in 'HitAbdomen'
+18:37:12 Error compiling '' in 'HitDiaphragm'
+18:37:12 Error compiling '' in 'HitChest'
+18:37:12 Error compiling '' in 'HitArms'
+18:37:12 Error compiling '' in 'HitLegs'
+18:37:15 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:37:16 Error compiling '' in 'HitPelvis'
+18:37:16 Error compiling '' in 'HitAbdomen'
+18:37:16 Error compiling '' in 'HitDiaphragm'
+18:37:16 Error compiling '' in 'HitChest'
+18:37:16 Error compiling '' in 'HitArms'
+18:37:16 Error compiling '' in 'HitLegs'
+18:37:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:37:26 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:40:22 Error compiling '' in 'HitPelvis'
+18:40:22 Error compiling '' in 'HitAbdomen'
+18:40:22 Error compiling '' in 'HitDiaphragm'
+18:40:22 Error compiling '' in 'HitChest'
+18:40:22 Error compiling '' in 'HitArms'
+18:40:22 Error compiling '' in 'HitLegs'
+18:40:58 Unit is not in cargo
+18:40:58 center[B]: group[Alfa 1-1] Not found.
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 Unit is not in cargo
+18:40:58 center[B]: group[Alfa 2-6] Not found.
+18:40:58 Unit is not in cargo
+18:40:58 center[B]: group[Alfa 3-1] Not found.
+18:40:58 center[B]: group[Alfa 2-6] Not found.
+18:40:58 center[B]: group[Alfa 2-6] Not found.
+18:40:58 Starting mission:
+18:40:58  Mission file: tempMissionSP
+18:40:58  Mission world: Altis
+18:40:58  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+18:40:59 EPE manager release (0|11|0)
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:41:02  Mission id: 1d8229ff0ecd87ad3f2b9cef833289aa08d678be
+18:41:13 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:41:13 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:41:13 Unknown attribute itemsCmd
+18:41:13 Unknown attribute itemsCmd
+18:41:37 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:41:37 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:41:37 Unknown attribute itemsCmd
+18:41:37 Unknown attribute itemsCmd
+18:41:41 Fresnel k must be >0, given n=1.4,k=0
+18:41:57 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:41:57 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:41:57 Unknown attribute itemsCmd
+18:41:57 Unknown attribute itemsCmd
+18:43:23 EPE manager release (20|121|0)
+18:43:23 Number of joints in scene after release: 14
+18:43:23 Number of actors in scene after release: 36
+18:43:23 EPE manager release (0|36|0)
+18:43:23 Number of joints in scene after release: 14
+18:43:23 Number of actors in scene after release: 15
+18:43:24 EPE manager release (0|15|0)
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:43:25 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:15 Starting mission:
+18:44:15  Mission file: tempMissionSP
+18:44:15  Mission world: Altis
+18:44:15  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+18:44:15 EPE manager release (0|11|0)
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:17 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:18 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:18 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:44:18  Mission id: f96cdcb37a04997bd429e218fc6b0c9db7dd2339
+18:44:19 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:44:19 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:44:19 Unknown attribute itemsCmd
+18:44:19 Unknown attribute itemsCmd
+18:44:50 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:44:50 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:44:50 Unknown attribute itemsCmd
+18:44:50 Unknown attribute itemsCmd
+18:45:05 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_C_ACO_pointer_F
+18:45:06 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:45:06 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:45:06 Unknown attribute itemsCmd
+18:45:06 Unknown attribute itemsCmd
+18:45:31 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_ACO_pointer_F
+18:46:17 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:46:17 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:46:17 Unknown attribute itemsCmd
+18:46:17 Unknown attribute itemsCmd
+18:46:55 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_C_ACO_pointer_F
+18:49:46 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:49:46 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+18:49:46 Unknown attribute itemsCmd
+18:49:46 Unknown attribute itemsCmd
+18:50:08 EPE manager release (7|90|0)
+18:50:08 Number of actors in scene after release: 7
+18:50:08 EPE manager release (0|7|0)
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:50:09 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:53:52 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:53:52 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:53:52 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:53:52 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:53:52 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:53:52 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:55:39 Fresnel n must be >0, given n=0,k=10
+18:56:00 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:00 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:00 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:00 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:00 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:00 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:13 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:13 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:13 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:13 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:13 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:13 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:21 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:21 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:21 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:21 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:21 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:21 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:57 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:57 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:57 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:57 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:57 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:56:57 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:06 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:06 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:57:42 Error compiling '' in 'HitPelvis'
+18:57:42 Error compiling '' in 'HitAbdomen'
+18:57:42 Error compiling '' in 'HitDiaphragm'
+18:57:42 Error compiling '' in 'HitChest'
+18:57:42 Error compiling '' in 'HitArms'
+18:57:42 Error compiling '' in 'HitLegs'
+18:57:42 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:58:17 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+18:58:24 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:16 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:16 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:16 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:16 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:16 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:16 Error compiling '' in 'HitPelvis'
+19:03:16 Error compiling '' in 'HitAbdomen'
+19:03:16 Error compiling '' in 'HitDiaphragm'
+19:03:16 Error compiling '' in 'HitChest'
+19:03:16 Error compiling '' in 'HitArms'
+19:03:16 Error compiling '' in 'HitLegs'
+19:03:38 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:38 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:38 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:38 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:03:38 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:04:16 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:04:16 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:04:16 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:04:16 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:04:16 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:04:40 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:27 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:31 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:33 center[O]: group[Alfa 1-1] Not found.
+19:05:33 center[O]: group[Alfa 1-2] Not found.
+19:05:33 center[O]: group[Alfa 1-3] Not found.
+19:05:33 center[O]: group[Alfa 1-4] Not found.
+19:05:33 center[O]: group[Alfa 1-5] Not found.
+19:05:33 center[O]: group[Alfa 1-6] Not found.
+19:05:33 center[O]: group[Alfa 2-1] Not found.
+19:05:33 center[O]: group[Alfa 2-2] Not found.
+19:05:33 center[O]: group[Alfa 2-3] Not found.
+19:05:33 center[O]: group[Alfa 2-4] Not found.
+19:05:33 center[O]: group[Alfa 2-5] Not found.
+19:05:33 center[O]: group[Alfa 2-6] Not found.
+19:05:33 center[O]: group[Alfa 3-1] Not found.
+19:05:33 center[O]: group[Alfa 3-2] Not found.
+19:05:33 center[O]: group[Alfa 3-3] Not found.
+19:05:33 center[O]: group[Alfa 3-4] Not found.
+19:05:33 center[O]: group[Alfa 3-5] Not found.
+19:05:33 center[B]: group[Alfa 3-5] Not found.
+19:05:33 center[B]: group[Alfa 3-3] Not found.
+19:05:33 center[B]: group[Alfa 1-1] Not found.
+19:05:33 center[B]: group[Alfa 1-2] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 1-3] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 1-4] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 1-5] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 1-6] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 2-1] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 2-2] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 2-3] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 2-4] Not found.
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 Unit is not in cargo
+19:05:33 center[B]: group[Alfa 3-1] Not found.
+19:05:33 center[B]: group[Alfa 2-5] Not found.
+19:05:33 center[B]: group[Alfa 2-6] Not found.
+19:05:33 center[B]: group[Alfa 2-5] Not found.
+19:05:33 center[B]: group[Alfa 2-5] Not found.
+19:05:33 Starting mission:
+19:05:33  Mission file: tempMissionSP
+19:05:33  Mission world: Altis
+19:05:33  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+19:05:33 EPE manager release (0|7|0)
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:36 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:05:37  Mission id: f73d8605fb8f17379f8b7e7854de0622bb91ee2d
+19:06:19 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_ACO_pointer_F
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:05 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:09:06 ModParams - Undefined or empty mod directory
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:42 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:45 center[B]: group[Alfa 3-1] Not found.
+19:11:45 Starting mission:
+19:11:45  Mission file: tempMissionSP
+19:11:45  Mission world: Altis
+19:11:45  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+19:11:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:11:49  Mission id: f38e1da8392dec5a2c73b965d5f578f7432f67c7
+19:12:19 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_ACO_pointer_F
+19:12:22 EPE manager release (28|734|0)
+19:12:22 Number of joints in scene after release: 526
+19:12:22 Number of actors in scene after release: 591
+19:12:22 EPE manager release (0|591|0)
+19:12:22 Number of joints in scene after release: 526
+19:12:22 Number of actors in scene after release: 563
+19:12:23 EPE manager release (0|563|0)
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:24 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:43 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:45 Starting mission:
+19:12:45  Mission file: tempMissionSP
+19:12:45  Mission world: Altis
+19:12:45  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:47 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:48 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:12:49  Mission id: c27eae4f50cc30d458da6d23a1c3b26be6b6d33c
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:17 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:15:18 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:03 Starting mission:
+19:20:03  Mission file: tempMissionSP
+19:20:03  Mission world: Altis
+19:20:03  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:05 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:06 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:20:07  Mission id: f72379743993bda0e7b1fbd0abbdc66a4c19bea8
+19:20:41 Wrong text element '_'
+19:20:41 XML parsing error in '_', code: <t align='left' font='EtelkaMonospacePro' shadow='1'>SITREP<br /><br />KIA: SLD....
+19:21:00 EPE manager release (29|332|0)
+19:21:00 Number of joints in scene after release: 184
+19:21:00 Number of actors in scene after release: 226
+19:21:00 EPE manager release (0|226|0)
+19:21:00 Number of joints in scene after release: 184
+19:21:00 Number of actors in scene after release: 197
+19:21:01 EPE manager release (0|197|0)
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:01 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:31 Starting mission:
+19:21:31  Mission file: tempMissionSP
+19:21:31  Mission world: Altis
+19:21:31  Mission directory: C:\Users\Ofel\Documents\Arma 3\missions\tempMissionSP.Altis\
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:33 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:34 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:21:35  Mission id: f37b552632650d54cdccd9e0ec520c197b16edb1
+19:21:52 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_ACO_pointer_F
+19:22:20 Error in ReloadMagazine - unable to locate target weapon arifle_Katiba_ACO_pointer_F
+19:22:39 Error in ReloadMagazine - unable to locate target weapon arifle_MX_ACO_pointer_F
+19:23:26 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+19:23:26 String STR_A3_RscGroupRootMenu_Items_ActivateMine0 not found
+19:23:26 Unknown attribute itemsCmd
+19:23:26 Unknown attribute itemsCmd
+19:26:09 EPE manager release (0|30|0)
+19:26:09 Number of joints in scene after release: 28
+19:26:09 Number of actors in scene after release: 30
+19:26:09 EPE manager release (0|30|0)
+19:26:09 Number of joints in scene after release: 28
+19:26:09 Number of actors in scene after release: 30
+19:26:10 EPE manager release (0|30|0)
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_soldier_LAT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[B_HeavyGunner_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_SL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AR_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_GL_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:11 soldier[O_Soldier_AT_F]:Some of magazines weren't stored in soldier Vest or Uniform?
+19:26:32 Wrong color format 
+19:26:34 Starting mission:
+19:26:34  Mission file: introExp
+19:26:34  Mission world: Altis
+19:26:34  Mission directory: a3\map_altis_scenes_f\scenes\introExp.Altis\
+19:26:36 Error compiling '' in 'HitPelvis'
+19:26:36 Error compiling '' in 'HitAbdomen'
+19:26:36 Error compiling '' in 'HitDiaphragm'
+19:26:36 Error compiling '' in 'HitChest'
+19:26:36 Error compiling '' in 'HitArms'
+19:26:36 Error compiling '' in 'HitLegs'
+19:26:36 Error compiling '' in 'HitPelvis'
+19:26:36 Error compiling '' in 'HitAbdomen'
+19:26:36 Error compiling '' in 'HitDiaphragm'
+19:26:36 Error compiling '' in 'HitChest'
+19:26:36 Error compiling '' in 'HitArms'
+19:26:36 Error compiling '' in 'HitLegs'
+19:26:37 Weather was forced to change
+19:26:38 Fresnel n must be >0, given n=0,k=1.4
+20:33:50 SimulWeather - Cloud Renderer - noise texture file is not specified!
+20:33:51 Deinitialized shape [Class: "C_Soldier_VR_F"; Shape: "a3\characters_f_bootcamp\common\vr_soldier_f.p3d";]
+20:33:51 Deinitialized shape [Class: "B_Soldier_TL_F"; Shape: "a3\characters_f\blufor\b_soldier_03.p3d";]
+20:33:51 Deinitialized shape [Class: "B_Soldier_SL_F"; Shape: "a3\characters_f\blufor\b_soldier_03.p3d";]
+20:33:51 Deinitialized shape [Class: "B_engineer_F"; Shape: "a3\characters_f\blufor\b_soldier_03.p3d";]
+20:33:51 Deinitialized shape [Class: "B_Soldier_lite_F"; Shape: "a3\characters_f\blufor\b_soldier_03.p3d";]
+20:33:51 Deinitialized shape [Class: "B_soldier_AR_F"; Shape: "a3\characters_f\blufor\b_soldier_02.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_support_MG_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_GL_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_SL_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_AR_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_soldier_M_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_AT_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_AAT_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_Soldier_A_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "O_medic_F"; Shape: "a3\characters_f\opfor\o_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_Soldier_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_support_GMG_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_support_AMG_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_soldier_exp_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_soldier_repair_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_soldier_LAT_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_Soldier_GL_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_soldier_AAA_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_support_AMort_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_HeavyGunner_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "B_support_MG_F"; Shape: "a3\characters_f\blufor\b_soldier_01.p3d";]
+20:33:51 Deinitialized shape [Class: "C_man_1"; Shape: "a3\characters_f\civil\c_poloshirt.p3d";]
+20:33:51 Deinitialized shape [Class: "C_man_polo_3_F"; Shape: "a3\characters_f\civil\c_poloshirt.p3d";]
+20:33:52 c:\w\stable\futura\lib\network\networkserver.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+20:33:55 Extensions:

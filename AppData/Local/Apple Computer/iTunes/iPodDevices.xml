@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Devices</key>
+	<dict>
+		<key>0B55271AB2976555</key>
+		<dict>
+			<key>Build Version</key>
+			<string>16B92</string>
+			<key>Connected</key>
+			<date>2018-12-09T14:57:25Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10053</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>12.1</string>
+			<key>ID</key>
+			<string>0B55271AB2976555</string>
+			<key>IMEI</key>
+			<string>355763074846167</string>
+			<key>MEID</key>
+			<string>35576307484616</string>
+			<key>Product Type</key>
+			<string>iPhone8,1</string>
+			<key>Region Info</key>
+			<string>J/A</string>
+			<key>Serial Number</key>
+			<string>C6KRG1TYGRY9</string>
+			<key>Use Count</key>
+			<integer>2</integer>
+		</dict>
+		<key>2344BD3D73A928F2</key>
+		<dict>
+			<key>Build Version</key>
+			<string>13G36</string>
+			<key>Connected</key>
+			<date>2017-01-15T18:43:58Z</date>
+			<key>Device Class</key>
+			<string>iPhone</string>
+			<key>Family ID</key>
+			<integer>10016</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>9.3.5</string>
+			<key>ID</key>
+			<string>2344BD3D73A928F2</string>
+			<key>IMEI</key>
+			<string>013198004719198</string>
+			<key>Product Type</key>
+			<string>iPhone4,1</string>
+			<key>Region Info</key>
+			<string>Y/A</string>
+			<key>Serial Number</key>
+			<string>DX3L51AVFML6</string>
+			<key>Use Count</key>
+			<integer>24</integer>
+		</dict>
+		<key>5358E7D3D1960332</key>
+		<dict>
+			<key>Build Version</key>
+			<string>13G36</string>
+			<key>Connected</key>
+			<date>2018-12-09T14:57:26Z</date>
+			<key>Device Class</key>
+			<string>iPad</string>
+			<key>Family ID</key>
+			<integer>10013</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>9.3.5</string>
+			<key>ID</key>
+			<string>5358E7D3D1960332</string>
+			<key>Product Type</key>
+			<string>iPad3,1</string>
+			<key>Region Info</key>
+			<string>TY/A</string>
+			<key>Serial Number</key>
+			<string>DYVHK92UDJ8T</string>
+			<key>Use Count</key>
+			<integer>22</integer>
+		</dict>
+		<key>68834A96D7BFB0B2</key>
+		<dict>
+			<key>Connected</key>
+			<date>2014-12-11T17:25:40Z</date>
+			<key>Device Class</key>
+			<string>iPad</string>
+			<key>Family ID</key>
+			<integer>10006</integer>
+			<key>Firmware Version</key>
+			<integer>256</integer>
+			<key>Firmware Version String</key>
+			<string>5.1.1</string>
+			<key>ID</key>
+			<string>68834A96D7BFB0B2</string>
+			<key>Region Info</key>
+			<string>TY/A</string>
+			<key>Serial Number</key>
+			<string>GB023DGWZ38</string>
+			<key>Updater Family ID</key>
+			<integer>10006</integer>
+			<key>Use Count</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

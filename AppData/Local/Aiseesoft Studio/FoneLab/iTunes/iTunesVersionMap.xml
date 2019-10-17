@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<version_map iTunesVersion="10.7" iOSVersion="600" />
+	<version_map iTunesVersion="11.1" iOSVersion="700" />
+	<version_map iTunesVersion="11.4" iOSVersion="800" />
+	<version_map iTunesVersion="12.3" iOSVersion="900" />
+	<version_map iTunesVersion="12.5" iOSVersion="1000" />
+	<version_map iTunesVersion="12.7" iOSVersion="1100" />
+</content>

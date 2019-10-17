@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>QTGlobalVarsCGWLocX</key>
+	<integer>816</integer>
+	<key>QTGlobalVarsCGWLocY</key>
+	<integer>289</integer>
+	<key>QTGlobalVarsMovieInspX</key>
+	<integer>0</integer>
+	<key>QTGlobalVarsMovieInspY</key>
+	<integer>0</integer>
+	<key>QTPrefsCaptureFormat</key>
+	<integer>0</integer>
+	<key>QTPrefsCaptureSaveLocation</key>
+	<string>C:\Users\Ofel\Desktop</string>
+	<key>QTPrefsFullScreenDispFSCtrls</key>
+	<integer>1</integer>
+	<key>QTPrefsFullScreenHideTime</key>
+	<integer>2</integer>
+	<key>QTPrefsFullScreenHideTimeSel</key>
+	<integer>1</integer>
+	<key>QTPrefsFullScreenLRFSSelect</key>
+	<integer>0</integer>
+	<key>QTPrefsFullScreenMovieOrSlide</key>
+	<integer>1075</integer>
+	<key>QTPrefsFullScreenPaintAllMons</key>
+	<integer>0</integer>
+	<key>QTPrefsFullScreenRGBCol</key>
+	<integer>0</integer>
+	<key>QTPrefsGeneralAutoPlay</key>
+	<integer>0</integer>
+	<key>QTPrefsGeneralHideEmptySel</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralMRUListLimit</key>
+	<integer>10</integer>
+	<key>QTPrefsGeneralOpenNew</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralPauseOnSwitch</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralShowCC</key>
+	<integer>0</integer>
+	<key>QTPrefsGeneralShowEqualizer</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralShowHotPix</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralShowTC</key>
+	<integer>0</integer>
+	<key>QTPrefsGeneralShowTCAbsoluteFrames</key>
+	<integer>0</integer>
+	<key>QTPrefsGeneralSoundBack</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralSoundFront</key>
+	<integer>1</integer>
+	<key>QTPrefsGeneralUseHighQual</key>
+	<integer>0</integer>
+	<key>QTPrefsOTHFullScreenPresMovie</key>
+	<integer>3</integer>
+	<key>QTPrefsSTDFullScreenPresMovie</key>
+	<integer>3</integer>
+	<key>QTPrefsWSFullScreenPresMovie</key>
+	<integer>3</integer>
+	<key>kQTPrefsGeneralShowSubtitles</key>
+	<integer>0</integer>
+</dict>
+</plist>

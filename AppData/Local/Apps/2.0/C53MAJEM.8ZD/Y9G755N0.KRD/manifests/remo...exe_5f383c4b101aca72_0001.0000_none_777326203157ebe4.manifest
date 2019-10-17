@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RemoteFlightServer.exe" version="1.0.0.46" publicKeyToken="5f383c4b101aca72" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Resources\rfserver.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RemoteFlightServer" version="1.0.0.0" publicKeyToken="854AFDC9E7A10576" language="neutral" processorArchitecture="x86" />
+    <commandLine file="RemoteFlightServer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FSUIPCClient.dll" size="28672">
+      <assemblyIdentity name="FSUIPCClient" version="1.3.2758.28" publicKeyToken="854AFDC9E7A10576" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>9t0dqUEcst7iem421EVNI0kLpOs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RemoteFlightServer.exe" size="2887080">
+      <assemblyIdentity name="RemoteFlightServer" version="1.0.0.0" publicKeyToken="854AFDC9E7A10576" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Rse0fbr+i8I9QowGe7C0zFeZ+EE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RemoteFlightServer.exe.config" size="1304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>milsSt4IAUF0unvBCj9ZCW8nDA8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\rfserver.ico" size="290923">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>vk/rHRfsqH6lW+jlQPQjXQpK2bI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=insanestation\oupa" issuerKeyHash="43fdeebe1037ce63de5acb0b2126a568a94f80f7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>M9eb7FbEs8V8gZ07sF/+yN7lD1U=</DigestValue></Reference></SignedInfo><SignatureValue>AEeJoSE/WRxLLaWiaRWPixlD2nKUv/IWh5m4ChOew3v3HIDMtXTBatJ+MpX+4xKhI0Dgh8QElvbfs2cq3AiOdW33NCWsYBAe929abs6UXL+Io/zQ8cig9aJHihVVDTgCnjtKLDXj5bTfcphm8zEABhbj6+wmxNYm0fZiqRXWq+4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>t8FkWSaI+cLLOhGwX1rhZKKdFwHQfl9jMBpF5RPhUDsvoqmzGOUy9ASM0Jf3iG10hzZMzX2NZ+nfFPLeh96tf1I9fbrUhYEDGX1hdc21cwXYaSv9GaiNSwnvVJxf7DSewDziq1/fkx3PrhtR68lsH21nuzEwV6de5gkSOQDjo3s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="550fe5dec8fe5fb03b9d817cc5b3c456ec9bd733" Description="" Url=""><as:assemblyIdentity name="RemoteFlightServer.exe" version="1.0.0.46" publicKeyToken="5f383c4b101aca72" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=insanestation\oupa</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AWR1DV1GEnpO0oASZcne7AHOI58=</DigestValue></Reference></SignedInfo><SignatureValue>T7nUV6e3ThG6dkS4YDFwJFCYHbRaJyUWuv9QNIkxqjdRBhh8A9S4a2sVcsAKgVM+3QqaGhGte58X8n2k14Gi+YH/yoOyKJSNnSQVapwWdftnJgjXgGN689Jmlcc2jYXS+i4JrmURjSQEVknfXiqBaUEP5tyKSgCPj7SAG5+SwjE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>t8FkWSaI+cLLOhGwX1rhZKKdFwHQfl9jMBpF5RPhUDsvoqmzGOUy9ASM0Jf3iG10hzZMzX2NZ+nfFPLeh96tf1I9fbrUhYEDGX1hdc21cwXYaSv9GaiNSwnvVJxf7DSewDziq1/fkx3PrhtR68lsH21nuzEwV6de5gkSOQDjo3s=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQYVK3swvPqZxNLNww8e/KsDANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQAaQBuAHMAYQBuAGUAcwB0AGEAdABpAG8AbgBcAG8AdQBwAGEwHhcNMTIwMjA1MDIwODE5WhcNMTcwMjA1MDIwODE5WjAvMS0wKwYDVQQDHiQAaQBuAHMAYQBuAGUAcwB0AGEAdABpAG8AbgBcAG8AdQBwAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALfBZFkmiPnCyzoRsF9a4WSinRcB0H5fYzAaReUT4VA7L6KpsxjlMvQEjNCX94htdIc2TM19jWfp3xTy3oferX9SPX261IWBAxl9YXXNtXMF2Gkr/RmojUsJ71ScX+w0nsA84qtf35Mdz64bUevJbB9tZ7sxMFenXuYJEjkA46N7AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAFgVGqsHXOtsmIYGcnbSthzDyfGyj9dBq5WdWm9RsBDoF7Nn6MDR/1CDwgMsNyKmaH4z+XI+TYSQDNn+w/ya3XjKVCn1eDMrTTryyaOCp4lCMnkn1Th5zLzTEgPH47Tk0l/lXXPCAzeXPUSe06wtTN4GV9+TVBpunlsEX78i9amc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

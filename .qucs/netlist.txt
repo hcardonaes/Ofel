@@ -1,0 +1,112 @@
+# Qucs 0.0.19  C:/Users/Ofel/.qucs/Refi_prj/mosfet macetas.sch
+
+.Def:LEDs_red _netC _netA
+      Diode:D_red _netC _netA Is="1e-10 A" N="4.09" Cj0="3 pF" M="0.5" Vj="0.7 V" Fc="0.5" Cp="0.0 fF" Isr="0.0" Nr="2.0" Rs="0.1 Ohm" Tt="4.0 us" Temp="26.85" Kf="0.0" Af="1.0" Ffe="1.0" Bv="5" Ibv="10 uA" Xti="3.0" Eg="1.11" Tbv="0.0" Trs="0.0" Ttt1="0.0" Ttt2="0.0" Tm1="0.0" Tm2="0.0" Tnom="26.85" Area="1.0"
+      R:Rleak _netA _netC R="50 MOhm" Temp="26.85"
+    .Def:End
+  
+
+.Def:NMOSFETs_IRF520N _net2 _net1 _net3
+    MOSFET:M1 _net7 _net9 _net8 _net8 Type="nfet" L="100u" W="100u" Is="1e-32" Vt0="2.79085" Lambda="0" Kp="1.5946" Cgso="2.79023e-06" Cgdo="1e-11" N="1" Gamma="0" Phi="0.6"
+    # .MODEL:MM  NMOS (LEVEL=1 IS=1E-32 VTO=2.79085 LAMBDA=0 KP=1.5946 CGSO=2.79023E-06 CGDO=1E-11) 
+    R:RS _net8 _net3 R="0.00043957"
+    Diode:D1 _net1 _net3 Is="8.70123e-12" Rs="0.0112359" N="1.18415" Bv="100" Ibv="0.00025" Eg="1.2" Xti="4" Tt="1e-07" Cj0="1.90917e-10" Vj="0.5" M="0.395048" Fc="0.1"
+    # .MODEL:MD  D (IS=8.70123E-12 RS=0.0112359 N=1.18415 BV=100 IBV=0.00025 EG=1.2 XTI=4 TT=1E-07 CJO=1.90917E-10 VJ=0.5 M=0.395048 FC=0.1) 
+    R:RDS _net3 _net1 R="4e+06"
+    R:RD _net9 _net1 R="0.0981901"
+    R:RG _net2 _net7 R="2.49106"
+    Diode:D2 _net5 _net4 Is="1e-32" N="50" Cj0="4.11936e-10" Vj="0.5" M="0.519039" Fc="1e-08"
+    # .MODEL:MD1  D (IS=1E-32 N=50 CJO=4.11936E-10 VJ=0.5 M=0.519039 FC=1E-08) 
+    Diode:D3 _net5 gnd Is="1e-10" N="0.45888" Rs="3e-06" M="0.5" Cj0="1e-14" Vj="0.7"
+    # .MODEL:MD2  D (IS=1E-10 N=0.45888 RS=3E-06) 
+    R:RL _net5 _net10 R="1"
+    CCCS:FI2 _net4 _net7 _net9 _cnet0 G="-1"
+    Vdc:VFI2 _cnet0 gnd U="0"
+    VCVS:EV16 _net9 _net10 gnd _net7 G="1"
+    C:CAP _net11 _net10 C="9.81932e-10"
+    CCCS:FI1 _net11 _net7 _net9 _cnet1 G="-1"
+    Vdc:VFI1 _cnet1 _net6 U="0"
+    R:RCAP _net6 _net10 R="1"
+    Diode:D4 _net6 gnd Is="1e-10" N="0.45888" M="0.5" Cj0="1e-14" Vj="0.7"
+    # .MODEL:MD3  D (IS=1E-10 N=0.45888) 
+  .Def:End
+  
+
+.Def:LM140_5_mod _net1 _net2 _net3 _ref
+  .Def:XLM140T_5 _ref _net3 _net1 _net2
+  R:RXX _net1 _net2 R="1e+008"
+  Vdc:VSENS1 _cnet8 _net1 U="0"
+  Idc:ISET _net15 _net2 I="0.001"
+  Diode:DON1 _net16 _net15 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  Vdc:VSENS2 _cnet4 _net19 U="0"
+  Diode:DON2 _net17 _net15 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  VCVS:EON2 _net3 _net18 _net2 _net2 G="1"
+  CCCS:FYY _net10 _net3 _net2 _cnet0 G="1"
+  Diode:DON3 _net27 _net15 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  Vdc:VDROP3 _net28 _net27 U="2"
+  VCVS:EON3 _net3 _net28 _net2 _net2 G="4"
+  VCCS:GPP _net50 _net3 _net2 _net2 G="0.001"
+  VCVS:ELINE _net66 _net13 _net42 _net2 G="1"
+  CCCS:FSET2 _net16 _net2 _net36 _cnet1 G="1"
+  Diode:DSC1 _net35 _net36 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  R:RCL1 _net36 _net37 R="10"
+  Diode:DSC2 _net38 _net37 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  VCVS:ESCCON _net30 _net38 _net39 _net2 G="1"
+  Vdc:VSCCON _cnet2 _net40 U="0"
+  CCCS:FSC _net39 _net19 _net2 _cnet2 G="1"
+  CCCS:FSET3 _cnet1 _net2 _net31 _cnet3 G="1"
+  Diode:DOV1 _net32 _net31 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  VCVS:EOV1 _net3 _net32 _net2 _net1 G="1"
+  Diode:DOV2 _net33 _net31 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  Idc:ISET4 _net30 _net2 I="0.001"
+  CCCS:FSET5 _cnet3 _net2 _net50 _cnet4 G="1"
+  VCVS:ELOAD _net77 _net41 _net2 _net2 G="-1"
+  VCVS:ERIPPLE _net72 _net42 _net41 _net2 G="1"
+  VCVS:EREF _net19 _net12 _net13 _net2 G="1"
+  VCVS:E3 _net3 _net52 _net2 _net2 G="1"
+  C:CBYPS _net54 _net2 C="0.001"
+  Vdc:VORB _cnet5 _net60 U="0"
+  R:RB _net60 _net2 R="1000"
+  R:RBR _net72 _net2 R="1000"
+  C:CBS2 _net52 _net71 C="1"
+  R:RSTEP _net77 _net2 R="1"
+  CCCS:FRB _net54 _net2 _net65 _cnet5 G="1"
+  Diode:DRB2 _net67 _net65 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  Vdc:VXRB _net67 _net68 U="-1"
+  VCVS:EXRB _net1 _net68 _net2 _net2 G="1"
+  Diode:DRB1 _net66 _net65 Is="1e-015" N="1" M="0.5" Cj0="1e-014" Vj="0.7"
+  R:RB1 _net66 _net2 R="1000"
+  R:RSET _net19 _net2 R="5000" Tc1="2e-005" Tc2="-1.001e-006"
+  R:RS1 _net10 _net12 R="0.007"
+  Vdc:VDROPX _net18 _net17 U="1.76"
+  R:RPP _net3 _net2 R="50000"
+  R:RIQ _net50 _net2 R="5800" Tc1="-0.00127"
+  CCVS:HSENSE1 _cnet0 _net35 _net2 _cnet6 G="4"
+  R:RISC _net30 _net2 R="10000" Tc1="-0.004"
+  R:ROV _net34 _net2 R="20000"
+  Vdc:VOV _net33 _net34 U="10"
+  VCVS:EOV2 _net34 _net2 _net40 _net2 G="0.3"
+  CCCS:FIQD _cnet6 _net3 _net2 _cnet7 G="0.00025"
+  R:RY _net52 _net54 R="6.06061e+006"
+  R:RA _net72 _net73 R="99990"
+  R:RYR _net71 _net72 R="9.999e+006"
+  C:CRA _net52 _net73 C="1.57595e-011"
+  CCVS:HSTEP _cnet7 _net76 _net2 _cnet8 G="0.07"
+  C:CSTEP _net76 _net77 C="5.30516e-006"
+  .Def:End
+  Sub:X1 _ref _net3 _net1 _net2 Type="XLM140T_5"
+.Def:End
+.Def:Regulators_LM140_5V _net0 _net1 _net2
+Sub:X1 _net1 _net0 _net2 gnd Type="LM140_5_mod"
+.Def:End
+  
+
+Sub:D1 led pulldown Type="LEDs_red"
+Sub:T1 pulldown rele gnd Type="NMOSFETs_IRF520N"
+Sub:LM140_1 gnd regulador fuente Type="Regulators_LM140_5V"
+Vdc:V1 fuente gnd U="9 V"
+Relais:S1 regulador _net0 _net1 rele Vt="0.5 V" Vh="0.1 V" Ron="0" Roff="1e12" Temp="26.85"
+.DC:DC1 Temp="26.85" reltol="0.001" abstol="1 pA" vntol="1 uV" saveOPs="no" MaxIter="150" saveAll="no" convHelper="none" Solver="CroutLU"
+R:R1 gnd pulldown R="1k Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
+R:R2 gnd led R="1k Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
+Switch:S2 regulador pulldown init="on" time="[1 ms]" Ron="0" Roff="1e12" Temp="26.85" MaxDuration="1e-6" Transition="spline"
